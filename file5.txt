@@ -1,2 +1,3 @@
 Test conflicts and merge
 test jenkins poll
+add line from b1
